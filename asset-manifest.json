@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Monterey/static/css/main.ca22650d.css",
+    "main.js": "/Monterey/static/js/main.f37af240.js",
+    "static/js/453.ed6b2e40.chunk.js": "/Monterey/static/js/453.ed6b2e40.chunk.js",
+    "index.html": "/Monterey/index.html",
+    "main.ca22650d.css.map": "/Monterey/static/css/main.ca22650d.css.map",
+    "main.f37af240.js.map": "/Monterey/static/js/main.f37af240.js.map",
+    "453.ed6b2e40.chunk.js.map": "/Monterey/static/js/453.ed6b2e40.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca22650d.css",
+    "static/js/main.f37af240.js"
+  ]
+}
