@@ -7,6 +7,7 @@ import {
   SelectTrigger,
   SelectValue
 } from "../components/ui/Select";
+import Map from "./Map"
 import { Button } from "../components/ui/Button";
 import { Card, CardContent } from "../components/ui/Card";
 import { missionInitiatives, missionCategories } from "../components/data/MissionData";
@@ -54,6 +55,7 @@ export default function Mission() {
 
         {/* Map */}
         <div className="w-full h-full rounded-xl overflow-hidden shadow-lg">
+          <Map/>
         </div>
       </div>
 
